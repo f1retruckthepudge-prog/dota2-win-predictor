@@ -43,8 +43,8 @@
 3. Запустите ноутбук `dota2_analysis.ipynb`.
 
 ## 📧 Контакты
-[Ваше Имя] — [ссылка на LinkedIn] — [email]
+[F1retruck] —— [f1retruckthepudge@gmail.com]
 
----
+https://nbviewer.org/github/f1retruckthepudge-prog/dota2-win-predictor/blob/main/Dota%202%202016%20-%202026.ipynb
 
 *Проект выполнен в рамках портфолио. Все выводы проверены статистически (p-value, bootstrap CI).*
