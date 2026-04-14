@@ -72,5 +72,5 @@ SHAP показывает, как каждый признак влияет на 
 
 ## Ссылки
 
-- [Ноутбук с кодом (nbviewer)](https://nbviewer.org/github/f1retruckthepudge-prog/dota2-win-predictor/blob/main/Dota%202%202016%20-%202026.ipynb)
-- [Репозиторий на GitHub](https://github.com/f1retruckthepudge-prog/dota2-win-predictor)
+- [Ноутбук с кодом (nbviewer)]((https://nbviewer.org/github/f1retruckthepudge-prog/dota2-win-predictor/blob/main/Dota%202%202016%20-%202026.ipynb))
+- [Репозиторий на GitHub]((https://github.com/f1retruckthepudge-prog/dota2-win-predictor))
