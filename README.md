@@ -46,11 +46,6 @@ SHAP показывает, как каждый признак влияет на 
 **Глобальная важность:**  
 ![SHAP global](shap_global_importance.png)
 
-**Детальное влияние (красные точки – высокие значения признака):**  
-![SHAP summary](shap_summary.png)
-
-**Пример для одного матча (force plot):**  
-![SHAP force plot](shap_force_plot.png)
 
 ## Калибровка вероятностей
 
