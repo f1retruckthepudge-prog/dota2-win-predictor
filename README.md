@@ -94,3 +94,23 @@
 
 - [Ноутбук с кодом (nbviewer)]((https://nbviewer.org/github/f1retruckthepudge-prog/dota2-win-predictor/blob/main/Dota%202%202016%20-%202026.ipynb))
 - [Репозиторий на GitHub]((https://github.com/f1retruckthepudge-prog/dota2-win-predictor))
+
+## 💰 Business Impact
+
++4% winrate →
+- выше призовые
+- выше рейтинг команды
+
+---
+
+## 💡 Productization
+
+1. Coaching tool:
+- показывает слабые early-game зоны
+
+2. Betting:
+- live win probability
+
+3. Analytics:
+- scouting команд
+
